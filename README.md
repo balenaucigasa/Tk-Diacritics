@@ -1,4 +1,4 @@
 # Tk-Diacritics
-Convertirea fisierelor cu diacritice pentru filme.
+Convertirea fișierelor cu diacritice pentru filme.
 
-Multi folosesc programul AVIAddXSubs pentru a aranja subtitrarea pe ecran. Insa nu stiu toti ca SRT-ul inainte de a fi convertit in SUB trebuie sa verifice diacriticele. Tk-Diacritics face asta automat pentru dumneavoastra. Rescrie orice caracter ț/ Ț/ Ș/ ș/ intr-o forma acceptata atat de AVIAddXSubs cat si de majoritatea playerelor video actuale.
+Mulți folosesc programul AVIAddXSubs pentru a aranja subtitrarea pe ecran. Însă nu știu toți că SRT-ul înainte de a fi convertit în SUB trebuie verificată forma diacriticelor. Unele au virgulă și altele au sedulă. Tk-Diacritics face asta automat pentru dumneavoastră. Rescrie orice caracter ț/ Ț/ Ș/ ș/ într-o formă acceptată atât de AVIAddXSubs cât și de majoritatea playerelor video actuale.
