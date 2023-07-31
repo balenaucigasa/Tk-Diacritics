@@ -17,7 +17,8 @@ def openFile():
                 .replace('\u0219', 'º') \
                 .replace('\u015e', 'ª') \
                 .replace('\u0218', 'ª') \
-                .replace('ă', 'ã') \
+                .replace('\u0102', 'Ã') \
+                .replace('\u0103', 'ã') \
                 .replace('\u0163', 'þ') \
                 .replace('\u021b', 'þ') \
                 .replace('\u0162', 'Þ') \
